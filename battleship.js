@@ -10,5 +10,5 @@ var view = {
     displayMiss: function(location) {
     var cell = document.getElementById(location);
     cell.setAttribute("class", "miss");
-        }
+    }
     };
